@@ -1,3 +1,28 @@
-vscode3
-edit for test7
-add test8
+Dear Hello!
+A
+We have received the information you submitted, but this information is currently insufficient to reactivate your account. To reactivate your account, please send the following:
+A
+ 
+- The root cause of.
+ 
+- Describe in detail what steps you have taken to resolve
+- Describe in detail what steps you have taken to avoid recurrence
+ 
+- Detailed evidence or examples that can show that your account complies with our policies.
+A
+How to send the required information?
+Please submit this information via https://sellercentral.amazon.co.jp/cu/contact-us.
+A
+What happens if the requested information is not sent?
+If we do not receive the required information within 14 days of the original notification, your account will remain suspended.
+A
+We are here to help you
+If you have questions about this policy or the information required above, please contact us at https://sellercentral.amazon.co.jp/cu/contact-us. In addition, if you need help in developing an action plan, please visit https://sellercentral.amazon.co.jp/gp/help/G201623610.
+A
+You can visit https://sellercentral.amazon.co.jp/performance/dashboard?ref=ah_em_ap, or use an iOS or Android device, open the Amazon seller app, select "Account Status" on the main screen to view your account performance . The Account Status Control Panel will display the performance indicators required by your account for sales on Amazon and its performance in terms of policy compliance.
+- iOS app (https://itunes.apple.com/jp/app/amazon-seller/id794141485?mt=8)
+- Android application (https://play.google.com/store/apps/details?id=com.amazon.sellermobile.android&hl=ja_jp)
+
+アカウントスペシャリスト
+Amazon.co.jp
+http://www.amazon.co.jp/marketplace
